@@ -1,37 +1,31 @@
-# 👋 Halo! Saya Nando Febriano Seva
+### Hi! [cite_start]👋 I'm Nando Febriano Seva. [cite: 1]
 
-Saya adalah mahasiswa **Teknik Energi Terbarukan** di **Universitas Pendidikan Indonesia**. Saya berfokus pada pengembangan sistem energi berkelanjutan dan integrasi **Generative AI** untuk menciptakan solusi masa depan yang lebih efisien dan hijau.
+[cite_start]A **Renewable Energy Engineering** student [cite: 2, 6] [cite_start]at **Universitas Pendidikan Indonesia** [cite: 5, 7] [cite_start]who integrates technical engineering with **Data Science and AI** [cite: 3, 60] [cite_start]to build sustainable solutions[cite: 3, 59].
 
----
+I'm currently active in the **Dicoding x DBS Foundation Coding Camp** as a **Data Scientist** learner, focusing on data-driven insights for energy optimization.
 
-### 🚀 Proyek & Riset Utama
-* **SEGARA:** Sistem pengering rumput laut tenaga surya terintegrasi Bio-PCM dan monitoring IoT.
-* **HYDRO PALM:** Inovasi drainase cerdas menggunakan biochar limbah sawit dengan sistem monitoring IoT.
-* **Smart Textile TNI AD:** Riset tekstil cerdas multispektral berbasis nanokomposit untuk manajemen termal dan pertahanan.
-* **Data Science:** Saat ini menempuh jalur belajar *Data Scientist* di Dicoding Coding Camp.
+- 🔭 I’m currently working on **SEGARA** (Solar-Powered Seaweed Dryer) and **Smart Textile** research for TNI AD.
+- [cite_start]🌱 I’m currently learning about **Generative AI** applications for energy access and sustainability[cite: 3, 54, 59].
+- [cite_start]💬 Feel free to ask me about **Renewable Energy, AI, or Scientific Writing**[cite: 58, 60].
+- 📫 How to reach me: sevanando12@gmail.com
+- ⚡ Fun fact: I'm a kinesthetic learner who enjoys philosophical works.
 
-### 🏆 Pencapaian & Sertifikasi
-* **Juara 1** - BlueFIC 2025 International Blue Essay Competition ("Solar-Powered Cold Storage").
-* **Finalis** - Siaga Awards 2025 (UII) untuk inovasi sistem PV portabel & pemurnian air UV-C.
-* **Finalis** - Lomba KTI HUT ke-48 Dislitbangad dalam riset teknologi pertahanan.
-* **#JuaraGCP Season 12:** Menyelesaikan 11 Skill Badges dalam tantangan Google Cloud.
-* **Sertifikasi AI:** Menyelesaikan modul "Innovating with AI" (Generative AI & LLM).
+### Tech Stack & Tools
+  <a href="#"><img align="left" alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="#"><img align="left" alt="ChatGPT" title="Generative AI" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" /></a>
+  <a href="#"><img align="left" alt="Excel" title="Microsoft Excel" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" /></a>
+  <a href="#"><img align="left" alt="Canva" title="Canva" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Canva_logo.svg" /></a>
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Seeevaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seeevaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seeevaa&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
-### 🛠️ Keahlian & Fokus
-* **Tech Stack:** Generative AI Tools (Intermediate), Microsoft Office, Canva.
-* **Bidang Fokus:** Sistem energi terbarukan, akses energi masyarakat pesisir, dan komunikasi ilmiah.
-* **Bahasa:** Indonesia (Native), English (Intermediate).
-* **Organisasi:** Officer Education Development di **IEEE UPI Student Branch** dan anggota **UKM LEPPIM UPI**.
-
----
-
-### 📫 Mari Berjejaring!
-* **LinkedIn:** [nando-febriano-seva](https://www.linkedin.com/in/nando-febriano-seva-b1727b318)
-* **Email:** sevanando12@gmail.com
-* **GitHub:** [Seeevaa](https://github.com/Seeevaa)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seeevaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+### Reach me on
+- <a href="https://www.linkedin.com/in/nando-febriano-seva-b1727b318">LinkedIn</a>
+- <a href="mailto:sevanando12@gmail.com">sevanando12@gmail.com</a>
