@@ -16,20 +16,15 @@ I'm currently active in the **Dicoding x DBS Foundation Coding Camp** as a **Dat
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python" /></a>
 </p>
 
-### 🏆 GitHub Trophies
+### GitHub Activity Graph
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Seeevaa&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Seeevaa&theme=nord&area=true&hide_border=true" />
 </p>
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seeevaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Nando's Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Seeevaa&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 🧪 Most Used Languages
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seeevaa&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seeevaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seeevaa&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 ### Reach me on
