@@ -1,27 +1,28 @@
 ### Hi! 👋 I'm Nando Febriano Seva.
 
-[cite_start]A **Renewable Energy Engineering** student at **Universitas Pendidikan Indonesia** [cite: 2, 5, 6] [cite_start]who loves to integrate technical engineering with **Data Science and AI** to create sustainable solutions[cite: 3, 59, 60].
+A **Renewable Energy Engineering** student at **Universitas Pendidikan Indonesia** who loves to integrate technical engineering with **Data Science and AI** to create sustainable solutions.
 
 I'm currently active in the **Dicoding x DBS Foundation Coding Camp** as a **Data Scientist** learner, focusing on data-driven energy optimization.
 
-- [cite_start]🔭 I’m currently working on **SEGARA** (Solar-Powered Seaweed Dryer) [cite: 52] [cite_start]and **Smart Textile** research for TNI AD[cite: 52].
-- [cite_start]🌱 I’m currently learning about **Generative AI** for energy access and sustainability[cite: 59, 60].
+- 1st Place at **BlueFIC 2025 International Blue Essay Competition**.
+- 🔭 I’m currently working on **SEGARA** (Solar-Powered Seaweed Dryer) and **Smart Textile** research for TNI AD.
+- 🌱 I’m currently learning about **Generative AI** for energy access and sustainability.
 - 💬 Feel free to ask me about **Renewable Energy, AI, or Scientific Writing**.
 - 📫 How to reach me: sevanando12@gmail.com
-- [cite_start]⚡ Fun fact: I'm a kinesthetic learner who enjoys introspective literature[cite: 58].
+- ⚡ Fun fact: I'm a kinesthetic learner who enjoys introspective literature.
 
 ### Tech Stack & Tools
-  <a href="#"><img align="left" alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="#"><img align="left" alt="ChatGPT" title="Generative AI" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" /></a>
-  <a href="#"><img align="left" alt="Excel" title="Microsoft Excel" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" /></a>
-  <a href="#"><img align="left" alt="Canva" title="Canva" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Canva_logo.svg" /></a>
-  <br>
-  <br>
-  
-### Github Statistics
 <p align="left">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python" /></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="25px" alt="ChatGPT" /></a>
+</p>
+
+### GitHub Statistics
+<p align="left">
+<a href="https://github.com/Seeevaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seeevaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seeevaa&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seeevaa&layout=compact&theme=tokyonight"/>
+</a>
 </p>
 
 ### Reach me on
