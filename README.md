@@ -1,14 +1,14 @@
-### Hi! [cite_start]👋 I'm Nando Febriano Seva. [cite: 1]
+### Hi! 👋 I'm Nando Febriano Seva.
 
-[cite_start]A **Renewable Energy Engineering** student [cite: 2, 6] [cite_start]at **Universitas Pendidikan Indonesia** [cite: 5, 7] [cite_start]who integrates technical engineering with **Data Science and AI** [cite: 3, 60] [cite_start]to build sustainable solutions[cite: 3, 59].
+[cite_start]A **Renewable Energy Engineering** student at **Universitas Pendidikan Indonesia** [cite: 2, 5, 6] [cite_start]who loves to integrate technical engineering with **Data Science and AI** to create sustainable solutions[cite: 3, 59, 60].
 
-I'm currently active in the **Dicoding x DBS Foundation Coding Camp** as a **Data Scientist** learner, focusing on data-driven insights for energy optimization.
+I'm currently active in the **Dicoding x DBS Foundation Coding Camp** as a **Data Scientist** learner, focusing on data-driven energy optimization.
 
-- 🔭 I’m currently working on **SEGARA** (Solar-Powered Seaweed Dryer) and **Smart Textile** research for TNI AD.
-- [cite_start]🌱 I’m currently learning about **Generative AI** applications for energy access and sustainability[cite: 3, 54, 59].
-- [cite_start]💬 Feel free to ask me about **Renewable Energy, AI, or Scientific Writing**[cite: 58, 60].
+- [cite_start]🔭 I’m currently working on **SEGARA** (Solar-Powered Seaweed Dryer) [cite: 52] [cite_start]and **Smart Textile** research for TNI AD[cite: 52].
+- [cite_start]🌱 I’m currently learning about **Generative AI** for energy access and sustainability[cite: 59, 60].
+- 💬 Feel free to ask me about **Renewable Energy, AI, or Scientific Writing**.
 - 📫 How to reach me: sevanando12@gmail.com
-- ⚡ Fun fact: I'm a kinesthetic learner who enjoys philosophical works.
+- [cite_start]⚡ Fun fact: I'm a kinesthetic learner who enjoys introspective literature[cite: 58].
 
 ### Tech Stack & Tools
   <a href="#"><img align="left" alt="Python" title="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
@@ -18,12 +18,10 @@ I'm currently active in the **Dicoding x DBS Foundation Coding Camp** as a **Dat
   <br>
   <br>
   
-### Github Statistic
+### Github Statistics
 <p align="left">
-<a href="https://github.com/Seeevaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seeevaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seeevaa&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
 </p>
 
 ### Reach me on
