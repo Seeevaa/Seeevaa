@@ -1,16 +1,3 @@
-### Hi! 👋 I'm Nando Febriano Seva.
-
-A **Renewable Energy Engineering** student at **Universitas Pendidikan Indonesia** who loves to integrate technical engineering with **Data Science and AI** to create sustainable solutions.
-
-I'm currently active in the **Dicoding x DBS Foundation Coding Camp** as a **Data Scientist** learner.
-
-- 1st Place at **BlueFIC 2025 International Blue Essay Competition**.
-- 🔭 I’m currently working on **SEGARA** (Solar-Powered Seaweed Dryer).
-- 🌱 I’m currently learning about **Generative AI** for energy access and sustainability.
-- 💬 Feel free to ask me about **Renewable Energy, AI, Data, or Scientific Writing**.
-- 📫 How to reach me: sevanando12@gmail.com
-- ⚡ Fun fact: I'm a kinesthetic learner who enjoys introspective literature.
-
 ### Tech Stack & Tools
 <p align="left">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python" /></a>
